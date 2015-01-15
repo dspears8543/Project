@@ -1,0 +1,89 @@
+					<------HYPER LINK--------->
+<h2>Links</h2>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Quisque ornare 
+		ipsum at erat. Quisque elementum tempus urna. Donec ornare fringilla erat. 
+		Phasellus gravida lectus vel dui. Fusce eget justo at odio posuere dignissim.</p>
+		<h3>Link List Title</h3>
+		<ul>
+			<li><a href="#">Hypertext Link</a><br />
+			Duis quis erat. Curabitur lobortis. Cras nunc. Aliquam erat volutpat.</li>
+			<li><a href="#">Hypertext Link</a><br />
+			Cras nunc. Aliquam erat volutpat. Praesent rhoncus porttitor wisi.</li>
+			<li><a href="#">Hypertext Link</a><br />
+			Curabitur lobortis.</li>
+		</ul>
+
+
+
+
+
+
+					<-----Artist Page Sample----->
+img alt="" height="256" src="../images/liquid.jpg" width="320" />
+		<h2>About</h2>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec tellus 
+		est, condimentum in, semper a, lacinia a, ante. Donec sit amet augue. Nunc 
+		eleifend accumsan libero. Fusce elit augue, ornare ut, dapibus eleifend, 
+		nonummy sed, metus. Duis risus ipsum, ultricies id, cursus at, placerat 
+		ut, nunc. Cras pulvinar euismod purus. Aliquam non erat. Morbi vitae elit. 
+		Praesent vel pede eu nibh nonummy pellentesque. Maecenas est elit, molestie 
+		eu, suscipit sit amet, porta sed, mauris. Phasellus convallis mauris ac 
+		lacus. Duis aliquet nibh at orci.</p>
+
+
+
+
+				<----Third Coloum Orginal----->
+
+
+<!-- Col 3-->
+<div class="col-md-4">
+  <div class="thumbnail">
+    <img src="http://goo.gl/0Kd7UO" >
+  </div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+				
+					<----interactive Nav---->
+<nav>
+  <ul>
+    <li>
+        <a href="/">Home</a>
+    </li>
+    <li>
+        <a href="/print">Print Design</a>
+    </li>
+    <li>
+        <a href="/web">Web Design</a>
+    </li>
+    <li>
+        <a href="/bio">Bio</a>
+    </li>
+    <li>
+        <a href="/contact">Contact</a>
+    </li>
+  </ul>
+</nav>
+
+					<----Origanl Nav---->
+
+<div class="nav">
+    <div class="container">
+      <ul>
+        <li><a href="#">Name</a></li>
+        <li><a href="#">Browse</a></li>
+      </ul>
+      <ul>
+        <li><a href="#">Sign Up</a></li>
+        <li><a href="#">Log In</a></li>
+        <li><a href="#">Help</a></li>
+      </ul>
+    </div>
+  </div>
+
+
